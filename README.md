@@ -1,2 +1,2 @@
-# project-5502
+# project5502
 CICD Example
